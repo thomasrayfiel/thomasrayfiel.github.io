@@ -1,8 +1,10 @@
 point that caret the right direction
 center lutwidge in novels
-copy navbar to other pages
+weird sizing in about page
+add active class to navbar in novels
+fix novels mobile
 contact page
 edit pdfs
-short story page
+short story page (pdf.js)
 essay page
 get text for news and vice TV
