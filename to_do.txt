@@ -1,4 +1,5 @@
-test navbar on mobile
+point that caret the right direction
+center lutwidge in novels
 copy navbar to other pages
 contact page
 edit pdfs
