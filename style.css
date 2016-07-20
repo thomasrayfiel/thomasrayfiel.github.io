@@ -2,10 +2,6 @@ html, body {
   height: 100%;
 }
 
-body{
-padding-bottom: 70px;
-}
-
 @media (min-width: 768px) {
     .navbar .navbar-nav {
         display: inline-block;
@@ -16,6 +12,10 @@ padding-bottom: 70px;
     .navbar .navbar-collapse {
         text-align: center;
     }
+}
+
+.page-bottom{
+  padding-bottom: 80px;
 }
 
 .vertical-center {

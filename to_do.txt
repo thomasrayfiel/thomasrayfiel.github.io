@@ -9,3 +9,4 @@ edit pdfs
 short story page (pdf.js)
 essay page
 get text for news and vice TV
+prefer essays/short stories as images or linked pdfs?
