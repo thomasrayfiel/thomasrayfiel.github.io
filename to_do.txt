@@ -4,6 +4,7 @@ weird sizing in about page
 add active class to navbar in novels
 fix novels mobile
 contact page
+add caption to author images
 edit pdfs
 short story page (pdf.js)
 essay page
