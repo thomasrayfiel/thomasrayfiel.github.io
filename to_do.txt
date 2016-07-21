@@ -2,7 +2,8 @@ point that caret the right direction
 center lutwidge in novels
 weird sizing in about page
 add active class to navbar in novels
-contact page
+contact page--change email to thomasrayfiel@gmail.com
+find a better way to do contact page
 edit pdfs
 get text for news and vice TV
 prefer essays/short stories as images or linked pdfs?
