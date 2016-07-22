@@ -14,6 +14,24 @@ html, body {
     }
 }
 
+.about-image{
+	background:url('authorphotos/milkcartons.jpg'); 
+	background-position: center; 
+	background-size: cover; 
+}
+
+@media screen and (max-width: 62em){
+	.about-image{
+	height:40vh;
+	}
+}
+
+@media screen and (min-width: 63em){
+	.about-image{
+		height:100vh;
+	}
+}
+
 .page-bottom{
   padding-bottom: 80px;
 }
@@ -42,3 +60,4 @@ html, body {
   -webkit-justify-content : center;
           justify-content : center;
 }
+                                                                                                                                                 
