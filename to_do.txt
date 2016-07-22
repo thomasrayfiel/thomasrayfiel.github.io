@@ -5,5 +5,4 @@ contact page--change email to thomasrayfiel@gmail.com
 find a better way to do contact page
 kontactr contact form not working by insecure response
 prefer essays/short stories as images or linked pdfs?
-fix novels mobile
 test on mobile landscape

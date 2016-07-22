@@ -2,6 +2,10 @@ html, body {
   height: 100%;
 }
 
+body{
+	padding:bottom:80px;
+}
+
 @media (min-width: 768px) {
     .navbar .navbar-nav {
         display: inline-block;
@@ -17,18 +21,31 @@ html, body {
 .about-image{
 	background:url('authorphotos/milkcartons.jpg'); 
 	background-position: center; 
-	background-size: cover; 
+	background-size: cover;
 }
+
 
 @media screen and (max-width: 62em){
 	.about-image{
-	height:40vh;
+	    height:40vh;
+	}
+	.novel-image{
+		height:50vh;
+	background-position: center !important; 
+	background-size: cover !important;
 	}
 }
 
-@media screen and (min-width: 63em){
+
+@media screen and (min-width: 62.1em){
 	.about-image{
 		height:100vh;
+	}
+	.novel-image{
+		height:70vh;
+		background-size: contain !important;
+    background-repeat: no-repeat !important;
+	
 	}
 }
 
