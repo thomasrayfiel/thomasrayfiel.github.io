@@ -2,8 +2,8 @@ html, body {
   height: 100%;
 }
 
-body{
-	padding:bottom:80px;
+.navbar .navbar-default .navbar-fixed-bottom .collapse .navbar-inner .navbar-collapse {
+    overflow-y: auto !important;
 }
 
 @media (min-width: 768px) {
@@ -50,7 +50,7 @@ body{
 }
 
 .page-bottom{
-  padding-bottom: 80px;
+  margin-bottom: 3em;
 }
 
 .vertical-center {
