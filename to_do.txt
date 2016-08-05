@@ -1,9 +1,1 @@
-point that caret the right direction (or remove)
-add lutwidge image
-add active class to navbar in novels
-contact page--change email to thomasrayfiel@gmail.com
-find a better way to do contact page
-kontactr contact form not working by insecure response
-prefer essays/short stories as images or linked pdfs?
-
-email with questions/check out mobile
+jotform--change email to thomasrayfiel@gmail.com
